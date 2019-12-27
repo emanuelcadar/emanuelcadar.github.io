@@ -22,7 +22,7 @@ Name | Reason
 ## Installation / Run
 
 For running the project locally, just download the files from repo and open index.html into a browser.
-Also the project can be tested here: 
+Also the project can be tested here: https://emanuelcadar.github.io/index.html
 
 ---
 
